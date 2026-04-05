@@ -1,0 +1,57 @@
+phase,phase_label,actor,mean_sentiment_norm,mean_positive,mean_negative,n_sentences,source
+P1,Pre-war (2010–2011),Syrian_Regime,-0.0187,0.241,0.427,3786,guardian
+P1,Pre-war (2010–2011),HTS,-0.02003,0.327,0.605,764,guardian
+P1,Pre-war (2010–2011),ISIS,-0.01062,0.301,0.47,249,guardian
+P1,Pre-war (2010–2011),Russia,-0.00723,0.28,0.352,542,guardian
+P1,Pre-war (2010–2011),Iran,-0.0088,0.327,0.407,1979,guardian
+P1,Pre-war (2010–2011),Syrian_Opposition,-0.01789,0.224,0.387,2351,guardian
+P1,Pre-war (2010–2011),Turkey,-0.00286,0.262,0.307,985,guardian
+P2,Uprising (2012–2015),Syrian_Regime,-0.01523,0.255,0.406,23203,guardian
+P2,Uprising (2012–2015),HTS,-0.01527,0.338,0.571,6169,guardian
+P2,Uprising (2012–2015),ISIS,-0.01835,0.225,0.393,24242,guardian
+P2,Uprising (2012–2015),Russia,-0.00874,0.231,0.312,12416,guardian
+P2,Uprising (2012–2015),Iran,-0.00275,0.308,0.33,8921,guardian
+P2,Uprising (2012–2015),Syrian_Opposition,-0.00709,0.226,0.293,18535,guardian
+P2,Uprising (2012–2015),Turkey,-0.01205,0.166,0.284,8299,guardian
+P3,Intervention (2016–2019),Syrian_Regime,-0.01383,0.262,0.397,9866,guardian
+P3,Intervention (2016–2019),HTS,-0.01414,0.359,0.575,4041,guardian
+P3,Intervention (2016–2019),ISIS,-0.01694,0.226,0.386,12251,guardian
+P3,Intervention (2016–2019),Russia,-0.00687,0.286,0.362,13815,guardian
+P3,Intervention (2016–2019),Iran,-0.00673,0.295,0.354,6131,guardian
+P3,Intervention (2016–2019),Syrian_Opposition,-0.00894,0.222,0.309,5016,guardian
+P3,Intervention (2016–2019),Turkey,-0.01458,0.202,0.342,9032,guardian
+P4,Transition (2022–2025),Syrian_Regime,-0.02468,0.202,0.454,7015,guardian
+P4,Transition (2022–2025),HTS,-0.01514,0.294,0.522,5647,guardian
+P4,Transition (2022–2025),ISIS,-0.01985,0.196,0.415,3481,guardian
+P4,Transition (2022–2025),Russia,-0.02172,0.181,0.394,21048,guardian
+P4,Transition (2022–2025),Iran,-0.02635,0.212,0.472,17604,guardian
+P4,Transition (2022–2025),Syrian_Opposition,-0.00961,0.186,0.275,4807,guardian
+P4,Transition (2022–2025),Turkey,-0.0109,0.175,0.278,4623,guardian
+P1,,Syrian_Regime,-0.02486,0.196,0.429,1466,aljazeera
+P1,,HTS,-0.02327,0.251,0.599,486,aljazeera
+P1,,ISIS,-0.01329,0.271,0.475,59,aljazeera
+P1,,Russia,-0.01761,0.156,0.328,122,aljazeera
+P1,,Iran,-0.01363,0.245,0.349,106,aljazeera
+P1,,Syrian_Opposition,-0.01909,0.184,0.381,1177,aljazeera
+P1,,Turkey,-0.00354,0.138,0.184,239,aljazeera
+P2,,Syrian_Regime,-0.01796,0.23,0.4,5754,aljazeera
+P2,,HTS,-0.02002,0.218,0.554,1456,aljazeera
+P2,,ISIS,-0.01164,0.204,0.327,3165,aljazeera
+P2,,Russia,-0.00791,0.22,0.281,1768,aljazeera
+P2,,Iran,-0.00065,0.26,0.279,1090,aljazeera
+P2,,Syrian_Opposition,-0.01285,0.179,0.308,4635,aljazeera
+P2,,Turkey,-0.0124,0.149,0.266,1828,aljazeera
+P3,,Syrian_Regime,-0.01087,0.242,0.354,3619,aljazeera
+P3,,HTS,-0.024,0.226,0.55,1159,aljazeera
+P3,,ISIS,-0.00975,0.191,0.286,3122,aljazeera
+P3,,Russia,-0.00544,0.238,0.294,3151,aljazeera
+P3,,Iran,-0.00036,0.285,0.29,1494,aljazeera
+P3,,Syrian_Opposition,-0.01665,0.183,0.362,2189,aljazeera
+P3,,Turkey,-0.01257,0.196,0.327,3481,aljazeera
+P4,,Syrian_Regime,-0.02269,0.206,0.411,1744,aljazeera
+P4,,HTS,-0.01971,0.297,0.533,572,aljazeera
+P4,,ISIS,-0.01898,0.204,0.378,632,aljazeera
+P4,,Russia,-0.01321,0.203,0.34,1000,aljazeera
+P4,,Iran,-0.00774,0.253,0.348,759,aljazeera
+P4,,Syrian_Opposition,-0.01365,0.227,0.356,542,aljazeera
+P4,,Turkey,-0.02527,0.119,0.383,681,aljazeera

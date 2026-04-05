@@ -1,0 +1,29 @@
+actor,phase,guardian_top10,aljazeera_top10,shared_words,overlap_pct
+Syrian_Regime,P1,"reform, journalist, power, speech, president, fall, step, activist, alawite, adviser","authority, capital, speech, rule, reform, force, istanbul, weekly, wave, erdogan","speech, reform",20.0
+Syrian_Regime,P2,"army, free, force, killed, aleppo, russia, activist, president, capital, fsa","army, president, free, power, activist, force, step, aleppo, capital, rule","force, aleppo, president, free, army, activist, capital",70.0
+Syrian_Regime,P3,"army, president, force, russia, future, iran, power, convoy, political, table","presidentbashar, force, army, conflict, power, support, fighter, aleppo, transition, role","army, force, power",30.0
+Syrian_Regime,P4,"fall, strike, attack, rule, gaza, president, summoned, ministry, power, building","president, hope, problem, relationship, relation, haven, gave, increasing, membership, possibly",president,10.0
+Syrian_Opposition,P1,"attack, snc, armed, free, army, defector, national, council, defence, issue","protester, figure, demonstrator, national, uprising, force, demonstration, meeting, dialogue, security",national,10.0
+Syrian_Opposition,P2,"opposition, army, rebel, free, fighter, brigade, commander, protester, uprising, aleppo","opposition, uprising, force, national, protester, captured, troop, control, seized, snc","protester, opposition, uprising",30.0
+Syrian_Opposition,P3,"opposition, free, army, arrest, euphrates, hama, honour, wearing, correct, addressed","opposition, uprising, protester, aleppo, force, delegation, revolutionary, committee, protest, offensive",opposition,10.0
+Syrian_Opposition,P4,,,,0.0
+HTS,P1,,,,0.0
+HTS,P2,"affiliate, fighter, islamic, strike, extremist, rebel, idlib, flight, division, website","isil, druze, captured, affiliate, branch, height, golan, idlib, islamic, fighter","idlib, affiliate, islamic, fighter",40.0
+HTS,P3,"idlib, hardline, control, takeover, rebel, faction, fighter, province, assad, ceasefire","idlib, zone, liberation, province, height, nfl, fighter, armed, isil, golan","idlib, province, fighter",30.0
+HTS,P4,"rebel, islamist, flight, assad, leader, terrorist, aleppo, gaza, mohammed, idlib","height, golan, offensive, terrorist, flight, byhayat, protester, opposition, occupied, salvation","terrorist, flight",20.0
+ISIS,P1,,,,0.0
+ISIS,P2,"crisis, threat, degrade, refugee, terrorist, clear, defeat, islamic, united, action","crisis, refugee, europe, fighter, islamic, humanitarian, european, annan, levant, greece","crisis, islamic, refugee",30.0
+ISIS,P3,"crisis, terrorist, comey, disrupt, prakash, degrade, pinheiro, ability, religion, partner","crisis, refugee, fighter, humanitarian, isilor, control, economic, levant, greek, raqqa",crisis,10.0
+ISIS,P4,"crisis, terrorism, levant, alert, threat, establish, originally, stress, opponent, argues","crisis, economic, fighter, sdf, food, killed, refugee, russia, armed, coalition",crisis,10.0
+Russia,P1,"president, failed, strategic, seek, nation, indonesia, cuba, erdogan, america, argue","dmitry, medvedev, effort, representative, president, opposition, condemning, vetoed, resolution, talk",president,10.0
+Russia,P2,"iran, council, resolution, security, ally, plane, vetoed, jet, kremlin, president","resolution, council, security, iran, kerry, ally, arab, counterpart, rejected, vetoed","council, vetoed, security, iran, resolution, ally",60.0
+Russia,P3,"iran, kremlin, brokered, council, chemical, security, vetoed, jet, ally, weapon","iran, kremlin, ally, jet, force, astana, counterpart, province, raid, warplane","jet, iran, kremlin, ally",40.0
+Russia,P4,"force, iran, sanction, troop, kremlin, council, shelling, security, building, kharkiv","iran, kremlin, jet, visit, drone, peskov, flare, reaper, force, rescue","iran, kremlin, force",30.0
+Iran,P1,"hezbollah, tehran, nuclear, hariri, tribunal, nasrallah, hassan, indictment, beirut, leader","hezbollah, hariri, islamic, tribunal, prime, quds, leader, saad, rafiq, supporting","leader, hariri, hezbollah, tribunal",40.0
+Iran,P2,"hezbollah, russia, tehran, nuclear, rouhani, beirut, nasrallah, fighter, killed, programme","hezbollah, russia, fighter, force, nasrallah, rebel, shia, hassan, talk, beirut","beirut, russia, nasrallah, hezbollah, fighter",50.0
+Iran,P3,"russia, tehran, hezbollah, nuclear, militia, force, sanction, agreement, army, rouhani","hezbollah, russia, tehran, turkish, attack, andiran, nasrallah, airport, army, fighter","russia, army, tehran, hezbollah",40.0
+Iran,P4,"hezbollah, nuclear, southern, rocket, beirut, killed, fighter, northern, nasrallah, supreme","russia, hezbollah, fighter, targeting, monitor, nuclear, regional, targeted, attack, depot","hezbollah, fighter, nuclear",30.0
+Turkey,P1,"minister, flotilla, prime, russia, foreign, iran, withdrawal, homs, council, civilian","bdama, ahmet, held, refugee, road, making, loyal, gang, gunman, morning",,0.0
+Turkey,P2,"authority, iran, prime, police, minister, jet, killed, province, counterpart, refugee","minister, prime, ahmet, side, iran, davutoglu, authority, shell, neighbouring, shelling","prime, minister, iran, authority",40.0
+Turkey,P3,"president, authority, counterpart, russia, iran, force, refugee, troop, offensive, europe","iran, russia, presidentrecep, force, troop, army, killed, authority, greece, astana","russia, force, troop, iran, authority",50.0
+Turkey,P4,"president, counterpart, phone, minister, source, authority, hakan, presidency, fidan, hts","president, minister, russia, ministry, authority, attack, foreign, neighbouring, defence, waged","authority, minister, president",30.0
