@@ -54,6 +54,7 @@ How does media framing of key Syrian conflict actors evolve across distinct conf
 │                                          # date parsing, and CSV export
 ├── data/                                  # Corpus CSV files (Guardian and Al Jazeera)
 ├── outputs/                               # Generated plots and co-occurrence networks
+└── Seminararbeit Abgabe – The Arc of Conflict  
 ```
 
 ## How to Run
